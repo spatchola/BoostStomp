@@ -17,7 +17,6 @@ GNU Lesser General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with BoostStomp.  If not, see <http://www.gnu.org/licenses/>.
-
 for more information on the LGPL, see:
 http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License
 */
